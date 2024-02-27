@@ -1,4 +1,9 @@
-# Welcome to my GitHub
+## Welcome to my GitHub
+
+- ✋ Hi, I'm Eric Burnheimer.
+- 📖 I'm a mathematics instructor who also enjoys data analysis and research methodology.
+- 🎽 I also enjoy running marathons. 
+
 
 <!--
 Here are some ideas to get you started:
