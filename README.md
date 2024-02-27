@@ -2,7 +2,7 @@
 
 - ✋ Hi, I'm Eric Burnheimer.
 - 📖 I'm a mathematics instructor who also enjoys data analysis and research methodology.
-- 🎽 I also enjoy running marathons and following the Boston Red Sox. ⚾
+- 🎽 I like running marathons and following the Boston Red Sox. ⚾
 
 ### Skills and Tools
 
